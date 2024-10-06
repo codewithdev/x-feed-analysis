@@ -1,0 +1,18 @@
+/* styles/styles.module.css */
+.form {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form:hover {
+  background-color: blue;
+}
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form {
+  text-align: center;
+}
